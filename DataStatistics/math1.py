@@ -1,7 +1,6 @@
 #
 import tensorflow as tf
 
-
 #argmax/argmin
 #argmax: 类似每一列的最大值。
 a = tf.random.normal([3, 3], mean=10, stddev=3)
